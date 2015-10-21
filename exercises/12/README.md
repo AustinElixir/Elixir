@@ -32,7 +32,7 @@ Type `mix help` for a full list of commands you can use. Typing `mix help new` w
 
 #### mix.exs
 
-Mix will create an Elixir Script file for you called "mix.esx".
+Mix will create an Elixir Script file for you called "mix.exs".
 
 ```elixir
 defmodule KV.Mixfile do
