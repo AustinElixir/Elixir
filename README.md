@@ -4,17 +4,17 @@ Introduction exercises for Elixir
 # Summary
 
 1. [Interactive Shell](exercises/1/README.md)
-2. [Defining Functions In a Module](exercies/2/README.md)
-3. [Operators](exercies/3/README.md)
-4. [Understanding Macro Expansion](exercies/4/README.md)
-5. [Data](exercies/5/README.md)
-6. [Control Flow](exercies/6/README.md)
-7. [Enum and Stream](exercies/7/README.md)
-8. [Messaging](exercies/8/README.md)
-9. [Protocols](exercies/9/README.md)
-10. [GenServers and Agents](exercies/10/README.md)
-11. [Applications and Supervisors](exercies/11/README.md)
-12. [Mix and Hex.pm](exercies/12/README.md)
+2. [Defining Functions In a Module](exercises/2/README.md)
+3. [Operators](exercises/3/README.md)
+4. [Understanding Macro Expansion](exercises/4/README.md)
+5. [Data](exercises/5/README.md)
+6. [Control Flow](exercises/6/README.md)
+7. [Enum and Stream](exercises/7/README.md)
+8. [Messaging](exercises/8/README.md)
+9. [Protocols](exercises/9/README.md)
+10. [GenServers and Agents](exercises/10/README.md)
+11. [Applications and Supervisors](exercises/11/README.md)
+12. [Mix and Hex.pm](exercises/12/README.md)
 
 # Acknowledgments
 
