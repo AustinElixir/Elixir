@@ -3,7 +3,7 @@ Introduction exercises for Elixir
 
 # Summary
 
-1. [Interactive Shell](exercies/1/README.md)
+1. [Interactive Shell](exercises/1/README.md)
 2. [Defining Functions In a Module](exercies/2/README.md)
 3. [Operators](exercies/3/README.md)
 4. [Understanding Macro Expansion](exercies/4/README.md)
