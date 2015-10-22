@@ -15,6 +15,7 @@ Introduction exercises for Elixir
 10. [GenServers and Agents](exercises/10/README.md)
 11. [Applications and Supervisors](exercises/11/README.md)
 12. [Mix and Hex.pm](exercises/12/README.md)
+13. [Phoenix Framework](http://www.phoenixframework.org/docs/up-and-running)
 
 # Acknowledgments
 
