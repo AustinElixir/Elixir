@@ -2,7 +2,11 @@
 
 ### Task 1
 
-Open the Elixir shell by typing `iex` in your shell. Explore the shell features by typing `h` and hitting enter.
+Open the Elixir repl by typing `iex` in your shell.
+
+If in a vagrant VM use `iex --erl "-smp enable"`, this will enable us to use the observer wx module later.
+
+Explore the shell features by typing `h` and hitting enter.
 
 Review all the helper functions defined by: [IEx.Helpers](http://elixir-lang.org/docs/v1.0/iex/IEx.Helpers.html)
 
